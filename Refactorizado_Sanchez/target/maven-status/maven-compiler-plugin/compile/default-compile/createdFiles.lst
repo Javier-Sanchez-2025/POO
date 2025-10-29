@@ -1,0 +1,5 @@
+modelo\Npc.class
+modelo\Aldeano.class
+modelo\Comerciante.class
+com\mycompany\refactorizado_sanchez\Refactorizado_Sanchez.class
+excepciones\ValidacionException.class
